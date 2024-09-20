@@ -1,0 +1,15 @@
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Application.deps.json
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Application.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Application.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.AssemblyInfoInputs.cache
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.AssemblyInfo.cs
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.csproj.CoreCompileInputs.cache
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\refint\DemoWayni.Application.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\ref\DemoWayni.Application.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Domain.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Domain.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.csproj.AssemblyReference.cache
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayn.D5962048.Up2Date

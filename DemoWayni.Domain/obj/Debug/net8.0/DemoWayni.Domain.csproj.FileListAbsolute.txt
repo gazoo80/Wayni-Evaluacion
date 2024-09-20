@@ -1,0 +1,11 @@
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\bin\Debug\net8.0\DemoWayni.Domain.deps.json
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\bin\Debug\net8.0\DemoWayni.Domain.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\bin\Debug\net8.0\DemoWayni.Domain.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.AssemblyInfoInputs.cache
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.AssemblyInfo.cs
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\refint\DemoWayni.Domain.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\ref\DemoWayni.Domain.dll
