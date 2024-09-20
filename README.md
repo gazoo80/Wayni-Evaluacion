@@ -3,6 +3,7 @@
 Instrucciones para ejecutar la aplicación:
 
 1. Descargar el código fuente de la aplicación o clonar el repositorio en una unidad local
+   git clone https://github.com/gazoo80/Wayni-Evaluacion.git
 
 2. Abra la solución en Visual Studio 2022. La solucion contiene 4 proyectos
    DemoWayni.Web
