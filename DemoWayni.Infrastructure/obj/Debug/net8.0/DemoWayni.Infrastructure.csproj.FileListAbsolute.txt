@@ -17,3 +17,4 @@ C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWa
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Infrastructure\obj\Debug\net8.0\ref\DemoWayni.Infrastructure.dll
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Infrastructure\bin\Debug\net8.0\DemoWayni.Application.dll
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Infrastructure\bin\Debug\net8.0\DemoWayni.Application.pdb
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Infrastructure\obj\Debug\net8.0\DemoWayni.Infrastructure.sourcelink.json

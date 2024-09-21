@@ -13,3 +13,4 @@ C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWa
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\bin\Debug\net8.0\DemoWayni.Domain.pdb
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.csproj.AssemblyReference.cache
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayn.D5962048.Up2Date
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Application\obj\Debug\net8.0\DemoWayni.Application.sourcelink.json

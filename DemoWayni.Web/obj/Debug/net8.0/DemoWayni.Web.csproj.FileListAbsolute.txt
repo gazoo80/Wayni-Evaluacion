@@ -258,3 +258,4 @@ C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWa
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Web\obj\Debug\net8.0\DemoWayni.Web.sourcelink.json

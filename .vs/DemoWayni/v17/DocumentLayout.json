@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "DemoWayni.Web\\Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Users\\JEFF\\source\\repos\\VideoCursos\\NETCore\\Wayni\\Evaluacion\\DemoWayni\\DemoWayni.Web\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "DemoWayni.Web\\Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T10:15:02.058Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "DemoWayni.Web\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T10:12:22.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T10:12:22.129Z"
             }
           ]
         }

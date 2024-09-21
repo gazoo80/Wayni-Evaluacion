@@ -9,3 +9,4 @@ C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWa
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\refint\DemoWayni.Domain.dll
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.pdb
 C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\ref\DemoWayni.Domain.dll
+C:\Users\JEFF\source\repos\VideoCursos\NETCore\Wayni\Evaluacion\DemoWayni\DemoWayni.Domain\obj\Debug\net8.0\DemoWayni.Domain.sourcelink.json
