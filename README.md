@@ -72,6 +72,7 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
 
    ![Ejecutar](https://res.cloudinary.com/dryukipp5/image/upload/v1726986034/Wayni/mpwhpvrkp7flkmhxj3o5.png)
 
+
 ## Enlaces de interés
 
 1. Video del uso de la aplicación
