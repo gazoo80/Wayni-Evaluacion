@@ -1,5 +1,7 @@
 # Wayni-Evaluación
 
+![Interfaz principal](https://res.cloudinary.com/dryukipp5/image/upload/v1726986241/Wayni/adjvj8pnxzfghvprtzup.png)
+
 ## Descripción de la aplicación
 
 La aplicación desarrollada es una aplicación web cuya funcionalidad principal es la de gestionar un CRUD (Crear, Leer, Actualizar, Eliminar) de usuarios. Esta aplicación está construida en ASP.NET Core 8 MVC.
@@ -18,6 +20,8 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
 ## Instrucciones para ejecutar la aplicación:
 
 1. Descargue el código fuente de la aplicación o clone el repositorio en una unidad local
+
+   Puede ejecutar la siguiente línea en una ventana de comandos
   
    ```git clone https://github.com/gazoo80/Wayni-Evaluacion.git```
 
@@ -28,6 +32,8 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
    * DemoWayni.Infrastructure
    * DemoWayni.Domain
 
+   ![Proyectosl](https://res.cloudinary.com/dryukipp5/image/upload/v1726986033/Wayni/wvlscyqwrknfiegf3ltt.png)
+
 3. Configure la cadena de conexión. Abra el archivo:
 
     ```\DemoWayni\DemoWayni.Web\appsettings.json```
@@ -36,6 +42,8 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
    conexión
 
     ```"DefaultConnection": "Data Source={Servidor local}; Initial Catalog=DemoWayniDB; User={usuario}; Password={password}; TrustServerCertificate=True" ```
+
+   ![Conexiónl](https://res.cloudinary.com/dryukipp5/image/upload/v1726986033/Wayni/uuos9jxgmqqwddnr9qty.png)
 
 4. En Visual Studio abra el Administrador de Paquetes para ejecutar las migraciones.
 
@@ -50,13 +58,19 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
    Se habrá creado la base de datos DemoWayniDB con las tablas correspondientes en su servidor local de base de datos SQL 
    Server. Puede usar Microsoft SQL Server Management Studio para visualizar la base de datos creada.
 
+   ![Update Databasel](https://res.cloudinary.com/dryukipp5/image/upload/v1726986034/Wayni/asktml3kjtcfrrw9cmm3.png)
+
 5. Asegúrese de establecer como proyecto de inicio el proyecto DemoWayni.Web
 
    Haga clic derecho sobre el proyecto DemoWayni.Web y seleccione la opción "Establecer como proyecto de inicio"
 
+   ![Proyecto Inicio](https://res.cloudinary.com/dryukipp5/image/upload/v1726986034/Wayni/nkjdd072uh7yj4qbmm89.png)
+
 6. Ejecute la aplicación haciendo clic en F5 o Ctrl + F5
 
    Al iniciar la aplicación está registrará algunos usuarios por defecto.
+
+   ![Ejecutar](https://res.cloudinary.com/dryukipp5/image/upload/v1726986034/Wayni/mpwhpvrkp7flkmhxj3o5.png)
 
 ## Enlaces de interés
 
