@@ -63,3 +63,4 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
 1. Video del uso de la aplicación
 
    [Ver video](https://youtu.be/OQUo7ehtV4o)
+
