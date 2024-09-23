@@ -3,12 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using DemoWayni.Domain.Models;
 using DemoWayni.Application.Services.Interfaces;
 using DemoWayni.Application.ViewModels;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace DemoWayni.Web.Controllers
 {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoWayni.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+604a712c1a83d2f795e6aede634aaef3bcbf716e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5edaca69e269722dd42d8dec4dec64423ba4df05")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoWayni.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoWayni.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
