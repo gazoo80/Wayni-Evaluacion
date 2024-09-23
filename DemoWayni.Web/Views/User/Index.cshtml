@@ -4,8 +4,6 @@
     ViewData["Title"] = "Index";
 }
 
-<p>@TempData["failure"]</p>
-
 <h2>Usuarios</h2>
 <hr />
 <p class="mt-4">
@@ -23,16 +21,16 @@
                 <h5 class="card-title">@Html.DisplayFor(modelItem => item.FirstName) @Html.DisplayFor(modelItem => item.LastName)</h5>
                 <p class="card-text">DNI @Html.DisplayFor(modelItem => item.Dni)</p>
             </div>
-            <div class="card-footer bg-transparent d-flex">
+            <div class="card-footer bg-transparent pt-0 pb-0 d-flex">
                 <a asp-action="Edit" asp-route-id="@item.Id" title="Editar" class="me-2">
-                     <i class="bi bi-pencil-fill" style="font-size: 18px; color: blue"></i>
+                     <i class="bi bi-pencil-fill" style="font-size: 14px; color: blue"></i>
                 </a>
                 <a onclick="showUser('/User/Details/@item.Id')" title="Detalle">
-                        <i class="bi bi-search" style="font-size: 18px; color: green; cursor: pointer"></i>
+                        <i class="bi bi-search" style="font-size: 14px; color: green; cursor: pointer"></i>
                 </a>
                 <div class="ms-auto">
                      <a onclick="deleteUser('/User/Delete/@item.Id')" title="Eliminar">
-                         <i class="bi bi-trash-fill" style="font-size: 18px; color: firebrick; cursor:pointer"></i>
+                         <i class="bi bi-trash-fill" style="font-size: 14px; color: firebrick; cursor:pointer"></i>
                      </a>
                 </div>
             </div>

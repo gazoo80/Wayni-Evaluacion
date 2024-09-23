@@ -43,6 +43,13 @@ namespace DemoWayni.Application.Services.Implementations
             return null;
         }
 
+        public async Task<bool> DniExists(string dni)
+        {
+            ArgumentNullException.ThrowIfNull(dni);
+            var exists = await uow.UserRepository.Exists(u => u.Dni.Equals(dni));
+            return exists;
+        }
+
         public async Task<bool> Create(UserDTO userDTO)
         {
             ArgumentNullException.ThrowIfNull(userDTO);

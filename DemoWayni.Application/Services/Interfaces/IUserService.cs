@@ -12,6 +12,7 @@ namespace DemoWayni.Application.Services.Interfaces
     {
         Task<List<UserDTO>> GetAll();
         Task<UserDTO?> Get(int? id);
+        Task<bool> DniExists(string dni);
         Task<bool> Create(UserDTO userDTO);
         Task<bool> Update(UserDTO userDTO);
         Task<bool> Remove(int id);

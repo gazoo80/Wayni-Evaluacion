@@ -27,8 +27,6 @@ namespace DemoWayni.Web.Controllers
         // GET: User/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            //return await GetUser(id, nameof(Details));
-
             try
             {
                 if (id is null)
@@ -68,8 +66,9 @@ namespace DemoWayni.Web.Controllers
                     return View(userDTO);
                 }
 
-                var success = await userService.Create(userDTO);
+                if (await VerifyDni(userDTO.Dni)) return View(userDTO);
 
+                var success = await userService.Create(userDTO);
                 if (success)
                 {
                     TempData["success"] = "El usuario se guardó exitosamente";
@@ -103,8 +102,9 @@ namespace DemoWayni.Web.Controllers
                     return View(userDTO);
                 }
 
-                var success = await userService.Update(userDTO);
+                if (await VerifyDni(userDTO.Dni)) return View(userDTO);
 
+                var success = await userService.Update(userDTO);
                 if (success)
                 {
                     TempData["success"] = "El usuario se actualizó exitosamente";
@@ -176,6 +176,16 @@ namespace DemoWayni.Web.Controllers
                 TempData["error"] = "Ocurrió un error. Inténtelo más tarde";
                 return RedirectToAction(nameof(Index));
             }
+        }
+
+        public async Task<bool> VerifyDni(string dni)
+        {
+            var exists = await userService.DniExists(dni);
+            if (exists) {
+                TempData["error"] = "El DNI ingresado ya existe en la base de datos";
+            }
+
+            return exists;
         }
     }
 }
