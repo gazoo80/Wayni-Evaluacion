@@ -2,6 +2,10 @@
 
 ![Interfaz principal](https://res.cloudinary.com/dryukipp5/image/upload/v1726986241/Wayni/adjvj8pnxzfghvprtzup.png)
 
+* [Video de uso de la aplicación](https://youtu.be/OQUo7ehtV4o)
+
+* [Pruebe la aplicación desplegada en Azure](https://mydemowayni.azurewebsites.net/)
+
 ## Descripción de la aplicación
 
 La aplicación desarrollada es una aplicación web cuya funcionalidad principal es la de gestionar un CRUD (Crear, Leer, Actualizar, Eliminar) de usuarios. Esta aplicación está construida en ASP.NET Core 8 MVC.
@@ -72,10 +76,4 @@ Finalmente, para la persistencia de datos se ha usado MS SQL Server 2021 y el OR
 
    ![Ejecutar](https://res.cloudinary.com/dryukipp5/image/upload/v1726986034/Wayni/mpwhpvrkp7flkmhxj3o5.png)
 
-
-## Enlaces de interés
-
-1. Video del uso de la aplicación
-
-   [Ver video](https://youtu.be/OQUo7ehtV4o)
 
